@@ -69,3 +69,51 @@ I'm open to connecting with people working in:
 - Technology
 
 Thanks for visiting my profile! ⭐
+## 💼 Professional Experience
+
+### 🤖 AI Data & Annotation Specialist
+
+I have experience supporting AI training and data quality projects through:
+
+- 🏷️ Data annotation and labeling
+- 🖼️ Image annotation and object labeling
+- 📝 Text annotation and data classification
+- 🎙️ Audio transcription
+- 🤖 AI-generated content evaluation
+- 🔎 Fact-checking and research
+- ✅ Quality assurance and data quality control
+- 📊 Rubric-based evaluation and content review
+- 💡 Providing structured feedback to improve AI systems
+
+I focus on accuracy, consistency, attention to detail, and following project guidelines and evaluation rubrics.
+
+## 🛠️ Core Skills
+
+- Data Annotation & Labeling
+- Image Annotation
+- Text Annotation
+- Audio Transcription
+- Data Classification
+- Data Categorization
+- Object Labeling
+- Content Classification
+- AI Output Evaluation
+- Quality Assurance (QA)
+- Data Quality Control
+- Fact-Checking
+- Research
+- Attention to Detail
+
+## 🌍 Work Preferences
+
+- 💻 Remote Work
+- 🤖 AI & Machine Learning Projects
+- 📊 Data Annotation & Evaluation
+- 🧠 AI Training & Data Quality
+- 🌐 Open to Worldwide Remote Opportunities
+
+## 📫 Contact
+
+I am open to opportunities involving AI data annotation, AI evaluation, data quality, content review, research, and related remote projects.
+
+Thank you for visiting my profile! 👋
